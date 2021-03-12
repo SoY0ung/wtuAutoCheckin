@@ -14,7 +14,7 @@ WTU Health Code Auto Check in for iOS (Shortcut App)
 
 ### 写在前面：
 
-**本脚本需要用到你的个人标识符(Authorization)数据，需要自行抓包获取，如果你连抓包都不知道，就不用再往下看了 ;P**
+**本脚本需要用到你的个人标识符(Authorization)数据，需要自行抓包获取，如果你连抓包都不知道，就不用再往下看了 XD**
 
 推荐的抓包软件：[Stream](https://apps.apple.com/cn/app/stream/id1312141691)
 
