@@ -3,6 +3,8 @@ WTU Health Code Auto Check in for iOS (Shortcut App)
 
 **The script is only for iOS 13+, Android version is not available**
 
+**快捷指令脚本 [点击下载](https://www.icloud.com/shortcuts/f8db72d4e0c74a99824fbc5993110d04)**
+
 启发自 [loyio的wtuHealthCode](https://github.com/loyio/wtuHealthCode)
 
 ## 说明
