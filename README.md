@@ -22,7 +22,7 @@ WTU Health Code Auto Check in for iOS (Shortcut App)
 
 1. **抓包**
 
-    抓到的包形如这样：
+    抓到的包形如这样：**注意是请求包，不是响应包**
  ```
  Host: jk.wtu.edu.cn
 Connection: keep-alive
